@@ -1,6 +1,6 @@
 # Desafio de Projeto sobre Git/GitHub
 
-Repositório criado para o Desafio de Projeto, para treinar o uso do Git Bash para atualizar os reposiórios.
+Repositório criado para o Desafio de Projeto, para treinar o uso do Git Bash para atualizar os repositórios.
 
 ## Links Úteis:
 
