@@ -10,8 +10,10 @@ São exercícios mostrados durante o Bootcamp da DIO - Orange Tech + | BackEnd. 
 
 ## Links Úteis:
 
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Página do Bootcamp da DIO - Orange Tech + | BackEnd](https://www.dio.me/bootcamp/orange-tech-backend?ref=CG&utm_source=youtube&utm_medium=social&utm_campaign=cg-bootcamp-orange-tech-backend&utm_content=description)
 
 [DIO](https://www.dio.me/)
 
 [Java Básico](https://glysns.gitbook.io/java-basico/)
+
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
