@@ -1,4 +1,4 @@
-# Orange Tech + | BackEnd - Desafio de Projeto sobre Git/GitHub
+# DIO Orange Tech + | BackEnd - Desafio de Projeto sobre Git/GitHub
 
 Repositório criado para o 1º Desafio de Projeto, para treinar o uso do Git Bash e aprender a atualizar os repositórios.
 
